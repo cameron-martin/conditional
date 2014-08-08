@@ -8,6 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Cameron Martin']
   spec.email         = ['cameronmartin123@gmail.com']
   spec.summary       = %q{Non-native conditionals in ruby}
+  spec.description   = %q{Non-native conditionals in ruby}
   spec.homepage      = 'https://github.com/cameron-martin/conditional'
   spec.license       = 'MIT'
 
