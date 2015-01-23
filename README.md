@@ -41,7 +41,7 @@ else
 end
 ```
 
-which  pollutes your current scope with the throw-away match object, you can write
+which  pollutes your current scope with the throw-away match variable, you can write
 
 ```ruby
 user_name = If %r{^http://github.com/(.*?)/}.match(url) do |match|
